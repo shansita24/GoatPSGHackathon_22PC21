@@ -1,0 +1,1016 @@
+[INFO] Robot A1 assigned to move from P1 to P5
+[INFO] Robot A1 reached destination P5
+INFO:root:Robot R0 spawned at 0
+INFO:root:Robot R1 spawned at 0
+INFO:root:Robot R2 spawned at 0
+INFO:root:Robot R0 spawned at 0
+2025-03-29 18:58:00,492 [INFO] ----- Fleet Management System Started -----
+2025-03-29 18:58:00,492 [INFO] Starting Fleet Management System
+2025-03-29 18:58:00,492 [INFO] Loaded navigation graph with 9 vertices and 12 lanes
+2025-03-29 18:58:00,492 [INFO] Fleet Manager initialized
+2025-03-29 18:58:00,492 [INFO] Traffic Manager initialized
+2025-03-29 18:58:00,562 [INFO] Fleet GUI initialized
+2025-03-29 18:58:08,144 [INFO] Robot Rd8ff50 created at vertex 1
+2025-03-29 18:58:08,144 [INFO] Robot Rd8ff50 spawned at vertex 1
+2025-03-29 18:58:10,292 [INFO] Robot R43a31b created at vertex 2
+2025-03-29 18:58:10,297 [INFO] Robot R43a31b spawned at vertex 2
+2025-03-29 18:58:12,973 [INFO] Robot R66bb40 created at vertex 3
+2025-03-29 18:58:12,973 [INFO] Robot R66bb40 spawned at vertex 3
+2025-03-29 18:58:31,182 [INFO] Robot R523e72 created at vertex 4
+2025-03-29 18:58:31,182 [INFO] Robot R523e72 spawned at vertex 4
+2025-03-29 18:58:32,574 [INFO] Robot R2d2e38 created at vertex 7
+2025-03-29 18:58:32,574 [INFO] Robot R2d2e38 spawned at vertex 7
+2025-03-29 18:58:33,799 [INFO] Robot Rbaa7ae created at vertex 6
+2025-03-29 18:58:33,799 [INFO] Robot Rbaa7ae spawned at vertex 6
+2025-03-29 18:58:35,112 [INFO] Robot R6cd438 created at vertex 0
+2025-03-29 18:58:35,112 [INFO] Robot R6cd438 spawned at vertex 0
+2025-03-29 18:58:36,462 [INFO] Robot Rd5e859 created at vertex 5
+2025-03-29 18:58:36,462 [INFO] Robot Rd5e859 spawned at vertex 5
+2025-03-29 18:58:57,393 [INFO] Robot R523e72 assigned task to navigate to vertex 8 via path [4, 5, 8]
+2025-03-29 18:58:57,393 [INFO] Robot R523e72 started moving along lane 3
+2025-03-29 18:59:00,736 [INFO] Robot R523e72 reached end of lane 3
+2025-03-29 18:59:00,736 [INFO] Robot R523e72 is now waiting
+2025-03-29 18:59:06,248 [INFO] Robot R523e72 assigned task to navigate to vertex 8 via path [4, 5, 8]
+2025-03-29 18:59:06,248 [INFO] Robot R523e72 started moving along lane 3
+2025-03-29 18:59:09,637 [INFO] Robot R523e72 reached end of lane 3
+2025-03-29 18:59:09,637 [INFO] Robot R523e72 is now waiting
+2025-03-29 18:59:13,162 [INFO] Robot R82ee45 created at vertex 4
+2025-03-29 18:59:13,162 [INFO] Robot R82ee45 spawned at vertex 4
+2025-03-29 18:59:16,422 [INFO] Robot R82ee45 assigned task to navigate to vertex 8 via path [4, 5, 8]
+2025-03-29 18:59:16,422 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:16,422 [INFO] Robot R82ee45 is now waiting
+2025-03-29 18:59:16,500 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:16,585 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:16,669 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:16,754 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:16,841 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:16,927 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:17,002 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:17,088 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:17,173 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:17,206 [INFO] Robot R82ee45 assigned task to navigate to vertex 8 via path [4, 5, 8]
+2025-03-29 18:59:17,206 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:17,206 [INFO] Robot R82ee45 is now waiting
+2025-03-29 18:59:17,259 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:17,343 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:17,429 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:17,514 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:17,600 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:17,676 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:17,763 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:17,849 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:17,935 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:18,010 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:18,096 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:18,182 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:18,267 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:18,343 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:18,429 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:18,516 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:18,601 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:18,686 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:18,772 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:18,857 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:18,933 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:19,019 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:19,104 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:19,180 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:19,266 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:19,352 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:19,437 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:19,522 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:19,607 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:19,683 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:19,769 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:19,854 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:19,941 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:20,025 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:20,110 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:20,195 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:20,282 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:20,367 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:20,453 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:20,539 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:20,625 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:20,711 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:20,797 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:20,830 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 18:59:20,873 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:20,959 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:21,035 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:21,121 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:21,206 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:21,293 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:21,368 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:21,454 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:21,540 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:21,626 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:21,712 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:21,797 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:21,873 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:21,959 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:22,045 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:22,122 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:22,208 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:22,284 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:22,371 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:22,457 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:22,532 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:22,618 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:22,704 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:22,789 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:22,865 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:22,941 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:23,025 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:23,102 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:23,187 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:23,273 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:23,359 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:23,444 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:23,528 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:23,613 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:23,698 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:23,783 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:23,868 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:23,954 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:24,041 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:24,126 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:24,202 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:24,288 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:24,364 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:24,451 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:24,526 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:24,611 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:24,694 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:24,778 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:24,862 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:24,946 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:25,031 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:25,117 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:25,196 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:25,281 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:25,365 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:25,451 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:25,536 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:25,622 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:25,707 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:25,792 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:25,835 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 18:59:25,878 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:25,963 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:26,049 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:26,133 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:26,217 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:26,293 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:26,378 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:26,463 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:26,548 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:26,633 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:26,717 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:26,802 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:26,887 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:26,971 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:27,055 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:27,138 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:27,223 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:27,308 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:27,393 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:27,478 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:27,562 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:27,647 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:27,733 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:27,808 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:27,894 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:27,980 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:28,065 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:28,150 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:28,236 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:28,322 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:28,407 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:28,492 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:28,576 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:28,661 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:28,745 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:28,830 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:28,915 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:29,000 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:29,084 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:29,169 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:29,254 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:29,338 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:29,422 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:29,507 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:29,591 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:29,676 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:29,762 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:29,846 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:29,931 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:30,016 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:30,102 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:30,187 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:30,271 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:30,355 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:30,440 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:30,524 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:30,609 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:30,693 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:30,777 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:30,861 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:30,862 [INFO] Checking for deadlocks among 2 waiting robots
+2025-03-29 18:59:30,946 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:31,030 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:31,114 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:31,199 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:31,283 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:31,367 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:31,451 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:31,536 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:31,620 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:31,704 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:31,788 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:31,863 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:31,948 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:32,033 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:32,117 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:32,195 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:32,279 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:32,363 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:32,447 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:32,531 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:32,616 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:32,701 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:32,786 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:32,871 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:32,956 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:33,041 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:33,127 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:33,211 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:33,297 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:33,383 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:33,467 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:33,550 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:33,635 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:33,711 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:33,797 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:33,881 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:33,966 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:34,042 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:34,127 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:34,212 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:34,297 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:34,381 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:34,465 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:34,550 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:34,635 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:34,721 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:34,805 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:34,891 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:34,976 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:35,061 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:35,146 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:35,231 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:35,315 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:35,400 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:35,485 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:35,569 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:35,655 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:35,730 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:35,815 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:35,901 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:35,902 [INFO] Checking for deadlocks among 2 waiting robots
+2025-03-29 18:59:35,987 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:36,073 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:36,157 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:36,243 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:36,330 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:36,415 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:36,499 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:36,584 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:36,668 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:36,754 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:36,838 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:36,924 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:37,009 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:37,084 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:37,169 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:37,255 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:37,339 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:37,425 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:37,509 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:37,595 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:37,679 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:37,765 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:37,850 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:37,936 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:38,022 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:38,106 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:38,192 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:38,277 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:38,362 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:38,438 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:38,523 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:38,608 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:38,684 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:38,769 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:38,855 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:38,941 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:39,026 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:39,110 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:39,195 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:39,280 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:39,364 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:39,450 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:39,535 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:39,620 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:39,706 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:39,792 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:39,877 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:39,963 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:40,048 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:40,133 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:40,220 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:40,306 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:40,381 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:40,467 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:40,554 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:40,640 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:40,716 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:40,802 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:40,886 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:40,919 [INFO] Checking for deadlocks among 2 waiting robots
+2025-03-29 18:59:40,963 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:41,049 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:41,134 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:41,220 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:41,306 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:41,391 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:41,477 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:41,563 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:41,649 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:41,734 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:41,818 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:41,903 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:41,989 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:42,074 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:42,161 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:42,247 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:42,332 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:42,417 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:42,501 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:42,587 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:42,672 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:42,757 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:42,842 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:42,926 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:43,002 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:43,087 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:43,163 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:43,250 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:43,336 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:43,422 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:43,507 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:43,593 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:43,677 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:43,761 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:43,847 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:43,933 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:44,019 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:44,104 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:44,181 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:44,266 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:44,341 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:44,427 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:44,503 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:44,589 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:44,673 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:44,758 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:44,844 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:44,929 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:45,014 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:45,098 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:45,183 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:45,267 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:45,350 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:45,435 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:45,519 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:45,602 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:45,687 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:45,770 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:45,854 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:45,937 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:45,937 [INFO] Checking for deadlocks among 2 waiting robots
+2025-03-29 18:59:46,021 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:46,105 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:46,188 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:46,272 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:46,355 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:46,439 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:46,525 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:46,611 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:46,697 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:46,782 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:46,868 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:46,953 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:47,038 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:47,124 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:47,209 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:47,294 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:47,380 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:47,465 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:47,551 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:47,637 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:47,722 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:47,808 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:47,894 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:47,980 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:48,064 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:48,149 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:48,235 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:48,321 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:48,405 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:48,491 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:48,576 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:48,661 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:48,747 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:48,833 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:48,909 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:48,994 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:49,078 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:49,164 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:49,241 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:49,324 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:49,408 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:49,493 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:49,578 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:49,663 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:49,749 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:49,834 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:49,919 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:50,004 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:50,078 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:50,164 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:50,247 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:50,332 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:50,417 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:50,501 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:50,586 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:50,664 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:50,748 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:50,834 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:50,919 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:50,962 [INFO] Checking for deadlocks among 2 waiting robots
+2025-03-29 18:59:51,005 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:51,089 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:51,173 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:51,258 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:51,342 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:51,427 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:51,511 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:51,597 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:51,683 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:51,768 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:51,852 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:51,936 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:52,020 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:52,105 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:52,188 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:52,273 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:52,359 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:52,443 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:52,527 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:52,612 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:52,695 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:52,781 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:52,865 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:52,950 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:53,035 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:53,120 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:53,205 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:53,290 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:53,377 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:53,463 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:53,547 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:53,632 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:53,717 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:53,803 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:53,888 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:53,973 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:54,059 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:54,144 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:54,231 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:54,316 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:54,401 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:54,486 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:54,570 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:54,656 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:54,742 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:54,827 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:54,912 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:54,996 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:55,081 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:55,166 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:55,242 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:55,327 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:55,413 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:55,496 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:55,582 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:55,667 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:55,753 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:55,837 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:55,923 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:55,967 [INFO] Checking for deadlocks among 2 waiting robots
+2025-03-29 18:59:56,010 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:56,086 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:56,161 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:56,247 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:56,333 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:56,419 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:56,506 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:56,591 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:56,676 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:56,762 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:56,847 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:56,932 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:57,018 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:57,104 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:57,191 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:57,277 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:57,363 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:57,449 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:57,534 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:57,618 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:57,703 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:57,789 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:57,864 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:57,950 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:58,035 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:58,120 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:58,205 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:58,291 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:58,376 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:58,462 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:58,546 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:58,631 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:58,716 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:58,800 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:58,886 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:58,972 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:59,059 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:59,145 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:59,230 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:59,314 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:59,400 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:59,486 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:59,572 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:59,658 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:59,743 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:59,829 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 18:59:59,914 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:00,000 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:00,085 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:00,170 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:00,255 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:00,341 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:00,426 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:00,512 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:00,597 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:00,682 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:00,766 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:00,852 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:00,936 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:00,979 [INFO] Checking for deadlocks among 2 waiting robots
+2025-03-29 19:00:01,022 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:01,108 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:01,195 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:01,281 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:01,367 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:01,443 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:01,529 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:01,614 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:01,699 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:01,783 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:01,868 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:01,953 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:02,040 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:02,127 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:02,212 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:02,298 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:02,383 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:02,468 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:02,554 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:02,640 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:02,725 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:02,811 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:02,895 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:02,979 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:03,064 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:03,150 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:03,225 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:03,311 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:03,397 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:03,483 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:03,568 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:03,652 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:03,727 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:03,813 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:03,899 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:03,986 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:04,071 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:04,156 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:04,241 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:04,326 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:04,413 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:04,497 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:04,573 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:04,657 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:04,743 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:04,827 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:04,913 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:04,998 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:05,083 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:05,169 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:05,254 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:05,339 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:05,425 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:05,511 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:05,596 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:05,681 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:05,766 [INFO] Lane 3 is occupied, robot R82ee45 must wait
+2025-03-29 19:00:05,772 [INFO] Robot R82ee45 assigned task to navigate to vertex 6 via path [4, 3, 6]
+2025-03-29 19:00:05,778 [INFO] Robot R82ee45 started moving along lane 2
+2025-03-29 19:00:05,979 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:00:09,157 [INFO] Robot R82ee45 reached end of lane 2
+2025-03-29 19:00:09,157 [INFO] Robot R82ee45 is now waiting
+2025-03-29 19:00:11,009 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:00:16,038 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:00:21,049 [INFO] Checking for deadlocks among 2 waiting robots
+2025-03-29 19:00:26,083 [INFO] Checking for deadlocks among 2 waiting robots
+2025-03-29 19:00:31,103 [INFO] Checking for deadlocks among 2 waiting robots
+2025-03-29 19:00:36,132 [INFO] Checking for deadlocks among 2 waiting robots
+2025-03-29 19:00:41,144 [INFO] Checking for deadlocks among 2 waiting robots
+2025-03-29 19:00:46,147 [INFO] Checking for deadlocks among 2 waiting robots
+2025-03-29 19:00:51,157 [INFO] Checking for deadlocks among 2 waiting robots
+2025-03-29 19:00:56,178 [INFO] Checking for deadlocks among 2 waiting robots
+2025-03-29 19:01:01,198 [INFO] Checking for deadlocks among 2 waiting robots
+2025-03-29 19:01:06,224 [INFO] Checking for deadlocks among 2 waiting robots
+2025-03-29 19:01:11,259 [INFO] Checking for deadlocks among 2 waiting robots
+2025-03-29 19:01:16,277 [INFO] Checking for deadlocks among 2 waiting robots
+2025-03-29 19:01:21,294 [INFO] Checking for deadlocks among 2 waiting robots
+2025-03-29 19:01:26,203 [INFO] Robot R6cd438 assigned task to navigate to vertex 8 via path [0, 1, 2, 5, 8]
+2025-03-29 19:01:26,203 [INFO] Robot R6cd438 started moving along lane 0
+2025-03-29 19:01:26,317 [INFO] Checking for deadlocks among 2 waiting robots
+2025-03-29 19:01:29,606 [INFO] Robot R6cd438 reached end of lane 0
+2025-03-29 19:01:29,607 [INFO] Robot R6cd438 is now waiting
+2025-03-29 19:01:31,321 [INFO] Checking for deadlocks among 2 waiting robots
+2025-03-29 19:01:36,349 [INFO] Checking for deadlocks among 2 waiting robots
+2025-03-29 19:01:41,375 [INFO] Checking for deadlocks among 3 waiting robots
+2025-03-29 19:01:42,843 [INFO] Fleet GUI closed
+2025-03-29 19:01:48,332 [INFO] ----- Fleet Management System Started -----
+2025-03-29 19:01:48,332 [INFO] Starting Fleet Management System
+2025-03-29 19:01:48,332 [INFO] Loaded navigation graph with 9 vertices and 12 lanes
+2025-03-29 19:01:48,332 [INFO] Fleet Manager initialized
+2025-03-29 19:01:48,332 [INFO] Traffic Manager initialized
+2025-03-29 19:01:48,392 [INFO] Fleet GUI initialized
+2025-03-29 19:03:10,008 [INFO] Robot Re276d2 created at vertex 1
+2025-03-29 19:03:10,009 [INFO] Robot Re276d2 spawned at vertex 1
+2025-03-29 19:03:24,512 [INFO] Robot Re276d2 assigned task to navigate to vertex 0 via path [1, 0]
+2025-03-29 19:03:24,512 [INFO] Robot Re276d2 started moving along lane 0
+2025-03-29 19:03:27,866 [INFO] Robot Re276d2 reached end of lane 0
+2025-03-29 19:03:27,867 [INFO] Robot Re276d2 completed its task
+2025-03-29 19:03:34,721 [INFO] Robot Re276d2 assigned task to navigate to vertex 4 via path [0, 1, 4]
+2025-03-29 19:03:34,722 [INFO] Robot Re276d2 started moving along lane 0
+2025-03-29 19:03:38,126 [INFO] Robot Re276d2 reached end of lane 0
+2025-03-29 19:03:38,127 [INFO] Robot Re276d2 started moving along lane 8
+2025-03-29 19:03:41,498 [INFO] Robot Re276d2 reached end of lane 8
+2025-03-29 19:03:41,498 [INFO] Robot Re276d2 completed its task
+2025-03-29 19:03:41,499 [INFO] Robot Re276d2 started charging
+2025-03-29 19:04:33,357 [INFO] Robot Re276d2 assigned task to navigate to vertex 2 via path [4, 5, 2]
+2025-03-29 19:04:33,357 [INFO] Robot Re276d2 started moving along lane 3
+2025-03-29 19:04:36,722 [INFO] Robot Re276d2 reached end of lane 3
+2025-03-29 19:04:36,722 [INFO] Robot Re276d2 started moving along lane 10
+2025-03-29 19:04:40,115 [INFO] Robot Re276d2 reached end of lane 10
+2025-03-29 19:04:40,115 [INFO] Robot Re276d2 completed its task
+2025-03-29 19:04:48,416 [INFO] Robot Re276d2 assigned task to navigate to vertex 5 via path [2, 5]
+2025-03-29 19:04:48,416 [INFO] Robot Re276d2 started moving along lane 10
+2025-03-29 19:04:51,817 [INFO] Robot Re276d2 reached end of lane 10
+2025-03-29 19:04:51,817 [INFO] Robot Re276d2 completed its task
+2025-03-29 19:04:54,672 [WARNING] Cannot spawn robot at vertex 1: already occupied
+2025-03-29 19:04:57,958 [INFO] Robot Rab3283 created at vertex 0
+2025-03-29 19:04:57,958 [INFO] Robot Rab3283 spawned at vertex 0
+2025-03-29 19:05:06,582 [INFO] Robot Rab3283 assigned task to navigate to vertex 6 via path [0, 3, 6]
+2025-03-29 19:05:06,582 [INFO] Robot Rab3283 started moving along lane 6
+2025-03-29 19:05:09,936 [INFO] Robot Rab3283 reached end of lane 6
+2025-03-29 19:05:09,936 [INFO] Robot Rab3283 started moving along lane 7
+2025-03-29 19:05:10,236 [INFO] Robot Re276d2 assigned task to navigate to vertex 6 via path [5, 4, 3, 6]
+2025-03-29 19:05:10,236 [INFO] Robot Re276d2 started moving along lane 3
+2025-03-29 19:05:13,327 [INFO] Robot Rab3283 reached end of lane 7
+2025-03-29 19:05:13,327 [INFO] Robot Rab3283 completed its task
+2025-03-29 19:05:13,572 [INFO] Robot Re276d2 reached end of lane 3
+2025-03-29 19:05:13,572 [INFO] Robot Re276d2 started moving along lane 2
+2025-03-29 19:05:16,961 [INFO] Robot Re276d2 reached end of lane 2
+2025-03-29 19:05:16,961 [INFO] Robot Re276d2 is now waiting
+2025-03-29 19:05:21,252 [INFO] Robot Rab3283 assigned task to navigate to vertex 7 via path [6, 7]
+2025-03-29 19:05:21,252 [INFO] Robot Rab3283 started moving along lane 4
+2025-03-29 19:05:24,647 [INFO] Robot Rab3283 reached end of lane 4
+2025-03-29 19:05:24,647 [INFO] Robot Rab3283 completed its task
+2025-03-29 19:05:27,812 [INFO] Robot Rab3283 assigned task to navigate to vertex 4 via path [7, 4]
+2025-03-29 19:05:27,812 [INFO] Robot Rab3283 started moving along lane 9
+2025-03-29 19:05:29,230 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:05:31,170 [INFO] Robot Rab3283 reached end of lane 9
+2025-03-29 19:05:31,170 [INFO] Robot Rab3283 is now waiting
+2025-03-29 19:05:34,256 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:05:34,363 [INFO] Robot Re276d2 assigned task to navigate to vertex 6 via path [4, 3, 6]
+2025-03-29 19:05:34,368 [INFO] Robot Re276d2 started moving along lane 2
+2025-03-29 19:05:37,778 [INFO] Robot Re276d2 reached end of lane 2
+2025-03-29 19:05:37,778 [INFO] Robot Re276d2 is now waiting
+2025-03-29 19:05:39,685 [INFO] Robot Re276d2 assigned task to navigate to vertex 6 via path [4, 3, 6]
+2025-03-29 19:05:39,685 [INFO] Robot Re276d2 started moving along lane 2
+2025-03-29 19:05:43,019 [INFO] Robot Re276d2 reached end of lane 2
+2025-03-29 19:05:43,019 [INFO] Robot Re276d2 is now waiting
+2025-03-29 19:05:44,092 [INFO] Robot Re276d2 assigned task to navigate to vertex 8 via path [4, 5, 8]
+2025-03-29 19:05:44,092 [INFO] Robot Re276d2 started moving along lane 3
+2025-03-29 19:05:44,323 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:05:47,498 [INFO] Robot Re276d2 reached end of lane 3
+2025-03-29 19:05:47,498 [INFO] Robot Re276d2 started moving along lane 11
+2025-03-29 19:05:49,356 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:05:50,876 [INFO] Robot Re276d2 reached end of lane 11
+2025-03-29 19:05:50,876 [INFO] Robot Re276d2 completed its task
+2025-03-29 19:05:50,876 [INFO] Robot Re276d2 started charging
+2025-03-29 19:05:52,424 [INFO] Robot Rab3283 assigned task to navigate to vertex 6 via path [7, 6]
+2025-03-29 19:05:52,424 [INFO] Robot Rab3283 started moving along lane 4
+2025-03-29 19:05:55,782 [INFO] Robot Rab3283 reached end of lane 4
+2025-03-29 19:05:55,782 [INFO] Robot Rab3283 completed its task
+2025-03-29 19:05:57,772 [INFO] Robot Rab3283 assigned task to navigate to vertex 4 via path [6, 7, 4]
+2025-03-29 19:05:57,772 [INFO] Robot Rab3283 started moving along lane 4
+2025-03-29 19:06:01,183 [INFO] Robot Rab3283 reached end of lane 4
+2025-03-29 19:06:01,183 [INFO] Robot Rab3283 started moving along lane 9
+2025-03-29 19:06:04,550 [INFO] Robot Rab3283 reached end of lane 9
+2025-03-29 19:06:04,550 [INFO] Robot Rab3283 is now waiting
+2025-03-29 19:06:17,137 [INFO] Fleet GUI closed
+2025-03-29 19:13:10,219 [INFO] ----- Fleet Management System Started -----
+2025-03-29 19:13:10,220 [INFO] Starting Fleet Management System
+2025-03-29 19:13:10,221 [INFO] Loaded navigation graph with 9 vertices and 12 lanes
+2025-03-29 19:13:10,222 [INFO] Fleet Manager initialized
+2025-03-29 19:13:10,222 [INFO] Traffic Manager initialized
+2025-03-29 19:13:10,318 [INFO] Fleet GUI initialized
+2025-03-29 19:13:13,842 [INFO] Robot R98bede created at vertex 0
+2025-03-29 19:13:13,842 [INFO] Robot R98bede spawned at vertex 0
+2025-03-29 19:13:17,083 [INFO] Robot R98bede assigned task to navigate to vertex 8 via path [0, 1, 2, 5, 8]
+2025-03-29 19:13:17,089 [INFO] Robot R98bede started moving along lane 0
+2025-03-29 19:13:20,494 [INFO] Robot R98bede reached end of lane 0
+2025-03-29 19:13:20,494 [INFO] Robot R98bede started moving along lane 1
+2025-03-29 19:13:21,449 [WARNING] Robot R98bede is already moving and cannot be reassigned
+2025-03-29 19:13:23,846 [INFO] Robot R98bede reached end of lane 1
+2025-03-29 19:13:23,846 [INFO] Robot R98bede started moving along lane 10
+2025-03-29 19:13:27,209 [INFO] Robot R98bede reached end of lane 10
+2025-03-29 19:13:27,209 [INFO] Robot R98bede started moving along lane 11
+2025-03-29 19:13:30,557 [INFO] Robot R98bede reached end of lane 11
+2025-03-29 19:13:30,557 [INFO] Robot R98bede completed its task
+2025-03-29 19:13:30,557 [INFO] Robot R98bede started charging
+2025-03-29 19:13:31,226 [INFO] Robot R98bede assigned task to navigate to vertex 3 via path [8, 7, 6, 3]
+2025-03-29 19:13:31,226 [INFO] Robot R98bede started moving along lane 5
+2025-03-29 19:13:34,574 [INFO] Robot R98bede reached end of lane 5
+2025-03-29 19:13:34,574 [INFO] Robot R98bede started moving along lane 4
+2025-03-29 19:13:37,462 [INFO] Fleet GUI closed
+2025-03-29 19:13:40,983 [INFO] ----- Fleet Management System Started -----
+2025-03-29 19:13:40,983 [INFO] Starting Fleet Management System
+2025-03-29 19:13:40,983 [INFO] Loaded navigation graph with 9 vertices and 12 lanes
+2025-03-29 19:13:40,983 [INFO] Fleet Manager initialized
+2025-03-29 19:13:40,983 [INFO] Traffic Manager initialized
+2025-03-29 19:13:41,053 [INFO] Fleet GUI initialized
+2025-03-29 19:13:46,840 [INFO] Robot Rba94f5 created at vertex 0
+2025-03-29 19:13:46,840 [INFO] Robot Rba94f5 spawned at vertex 0
+2025-03-29 19:13:47,598 [WARNING] Cannot spawn robot at vertex 0: already occupied
+2025-03-29 19:13:52,725 [INFO] Robot Rba94f5 assigned task to navigate to vertex 8 via path [0, 1, 2, 5, 8]
+2025-03-29 19:13:52,725 [INFO] Robot Rba94f5 started moving along lane 0
+2025-03-29 19:13:56,108 [INFO] Robot Rba94f5 reached end of lane 0
+2025-03-29 19:13:56,108 [INFO] Robot Rba94f5 started moving along lane 1
+2025-03-29 19:13:59,464 [INFO] Robot Rba94f5 reached end of lane 1
+2025-03-29 19:13:59,464 [INFO] Robot Rba94f5 started moving along lane 10
+2025-03-29 19:14:02,814 [INFO] Robot Rba94f5 reached end of lane 10
+2025-03-29 19:14:02,814 [INFO] Robot Rba94f5 started moving along lane 11
+2025-03-29 19:14:06,150 [INFO] Robot Rba94f5 reached end of lane 11
+2025-03-29 19:14:06,150 [INFO] Robot Rba94f5 completed its task
+2025-03-29 19:14:06,150 [INFO] Robot Rba94f5 started charging
+2025-03-29 19:14:08,850 [INFO] Robot R4c6777 created at vertex 3
+2025-03-29 19:14:08,850 [INFO] Robot R4c6777 spawned at vertex 3
+2025-03-29 19:14:09,545 [WARNING] Cannot spawn robot at vertex 3: already occupied
+2025-03-29 19:14:25,027 [INFO] Robot R4c6777 assigned task to navigate to vertex 7 via path [3, 4, 7]
+2025-03-29 19:14:25,027 [INFO] Robot R4c6777 started moving along lane 2
+2025-03-29 19:14:28,444 [INFO] Robot R4c6777 reached end of lane 2
+2025-03-29 19:14:28,444 [INFO] Robot R4c6777 started moving along lane 9
+2025-03-29 19:14:31,799 [INFO] Robot R4c6777 reached end of lane 9
+2025-03-29 19:14:31,800 [INFO] Robot R4c6777 completed its task
+2025-03-29 19:14:39,757 [INFO] Robot R4c6777 assigned task to navigate to vertex 0 via path [7, 6, 3, 0]
+2025-03-29 19:14:39,757 [INFO] Robot R4c6777 started moving along lane 4
+2025-03-29 19:14:43,173 [INFO] Robot R4c6777 reached end of lane 4
+2025-03-29 19:14:43,173 [INFO] Robot R4c6777 started moving along lane 7
+2025-03-29 19:14:46,518 [INFO] Robot R4c6777 reached end of lane 7
+2025-03-29 19:14:46,518 [INFO] Robot R4c6777 started moving along lane 6
+2025-03-29 19:14:49,878 [INFO] Robot R4c6777 reached end of lane 6
+2025-03-29 19:14:49,878 [INFO] Robot R4c6777 completed its task
+2025-03-29 19:14:52,528 [INFO] Robot R4c6777 assigned task to navigate to vertex 4 via path [0, 1, 4]
+2025-03-29 19:14:52,528 [INFO] Robot R4c6777 started moving along lane 0
+2025-03-29 19:14:55,893 [INFO] Robot R4c6777 reached end of lane 0
+2025-03-29 19:14:55,893 [INFO] Robot R4c6777 is now waiting
+2025-03-29 19:15:06,269 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:15:11,271 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:15:16,292 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:15:21,330 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:15:26,331 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:15:31,335 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:15:36,337 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:15:41,346 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:15:46,357 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:15:51,384 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:15:56,410 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:16:01,459 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:16:06,483 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:16:11,509 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:16:16,550 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:16:21,570 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:16:26,598 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:16:31,628 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:16:36,648 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:16:41,681 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:16:46,704 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:16:51,730 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:16:56,739 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:17:01,776 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:17:06,815 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:17:11,849 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:17:16,851 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:17:21,892 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:17:26,908 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:17:31,924 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:17:36,965 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:17:41,998 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:17:47,034 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:17:52,071 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:17:57,109 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:18:02,118 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:18:07,156 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:18:12,162 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:18:17,179 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:18:22,184 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:18:27,184 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:18:32,202 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:18:37,227 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:18:42,236 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:18:47,258 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:18:52,263 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:18:57,300 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:19:02,337 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:19:07,375 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:19:12,411 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:19:17,446 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:19:22,486 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:19:27,487 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:19:32,492 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:19:37,494 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:19:42,500 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:19:47,502 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:19:52,538 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:19:57,572 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:20:02,580 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:20:07,616 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:20:12,623 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:20:17,623 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:20:22,664 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:20:27,695 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:20:32,736 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:20:37,750 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:20:42,789 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:20:47,821 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:20:52,832 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:20:57,873 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:21:02,901 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:21:07,938 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:21:12,949 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:21:17,984 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:21:22,985 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:21:27,988 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:21:32,994 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:21:38,013 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:21:43,034 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:21:48,034 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:21:53,062 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:21:58,066 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:22:03,087 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:22:08,093 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:22:13,113 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:22:18,140 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:22:23,179 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:22:28,209 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:22:33,209 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:22:38,244 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:22:43,252 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:22:48,293 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:22:53,316 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:22:58,345 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:23:03,379 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:23:08,385 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:23:13,406 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:23:18,446 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:23:23,486 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:23:28,520 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:23:33,536 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:23:38,577 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:23:43,594 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:23:48,607 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:23:53,638 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:23:58,671 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:24:03,696 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:24:08,731 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:24:13,768 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:24:18,790 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:24:23,816 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:24:28,837 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:24:33,837 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:24:38,879 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:24:43,891 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:24:48,923 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:24:53,960 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:24:58,996 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:25:04,018 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:25:09,049 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:25:14,061 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:25:19,080 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:25:24,107 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:25:29,119 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:25:34,150 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:25:39,188 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:25:44,213 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:25:49,234 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:25:54,263 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:25:59,290 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:26:04,291 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:26:09,313 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:26:14,346 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:26:19,378 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:26:24,403 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:26:29,406 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:26:34,434 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:26:39,464 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:26:44,471 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:26:49,478 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:26:54,501 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:26:59,510 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:27:04,542 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:27:09,584 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:27:14,622 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:27:19,626 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:27:24,629 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:27:29,664 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:27:34,665 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:27:39,698 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:27:44,737 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:27:49,756 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:27:54,796 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:27:59,813 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:28:04,851 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:28:09,858 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:28:14,864 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:28:19,887 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:28:24,917 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:28:29,938 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:28:34,979 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:28:40,014 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:28:45,050 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:28:50,054 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:28:55,055 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:29:00,085 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:29:05,119 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:29:10,143 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:29:15,157 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:29:20,194 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:29:25,221 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:29:30,245 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:29:35,264 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:29:40,293 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:29:45,330 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:29:50,353 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:29:55,365 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:30:00,397 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:30:05,398 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:30:10,403 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:30:15,441 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:30:20,453 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:30:25,477 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:30:30,490 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:30:35,522 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:30:40,537 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:30:45,551 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:30:50,563 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:30:55,593 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:31:00,606 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:31:05,630 [INFO] Checking for deadlocks among 1 waiting robots
+2025-03-29 19:31:05,672 [INFO] Fleet GUI closed
+
+--- FLEET MANAGEMENT SESSION STARTED AT 2025-03-29 19:37:49 ---
+
+--- FLEET MANAGEMENT SESSION ENDED AT 2025-03-29 19:37:50 ---
+
+--- FLEET MANAGEMENT SESSION STARTED AT 2025-03-29 19:38:06 ---
+
+--- FLEET MANAGEMENT SESSION ENDED AT 2025-03-29 19:38:06 ---
