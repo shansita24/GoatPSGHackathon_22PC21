@@ -56,7 +56,7 @@ This project implements a **graph-based fleet management system** for multiple a
 ### Steps to Run the Project
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/fleet-management.git
+   git clone https://github.com/shansita24/GoatPSGHackathon_22PC21
    cd fleet-management
    ```
 2. Install dependencies:
@@ -67,6 +67,15 @@ This project implements a **graph-based fleet management system** for multiple a
    ```sh
    python -m src.main
    ```
+
+## Working
+- ![image](https://github.com/user-attachments/assets/1.png)
+  This image shows the gui where we can view the graph with the corresponding vertices and edges which can be changed in the nav_graph.json file.
+- ![image](https://github.com/user-attachments/assets/2.png)
+  After selection of the vertex B when we click on vertex A the robot moves from B to A in the shortest route possible.
+- ![image](https://github.com/user-attachments/assets/3.png)
+  This image shows the Robot 1 charging on the vertex G again this charging vertices also can be changed in the nav_graph.json file.Now we can spawn a new Robot 2 again in the vertex B, now this robot 2 would not be able to pass through or be able to be placed on the vertex in which robot 1 is present.
+- ![image](https://github.com/user-attachments/assets/4.png)
 
 ## 🎬 Demo Video  
 📺 **[Click here to watch the demo]()** 
