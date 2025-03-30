@@ -1,2 +1,77 @@
-pip install -r requirements.txt
-python -m src.main
+# Fleet Management System with Traffic Negotiation for Multi-Robots
+
+## Approach
+
+This project implements a **graph-based fleet management system** for multiple autonomous robots, ensuring smooth navigation and efficient traffic handling. The core of this system is built around **real-time pathfinding, lane reservation, and a dynamic GUI**, enabling intuitive interaction and monitoring of robot movements.
+
+### Key Aspects of the Approach:
+
+1. **Graph-Based Navigation**
+   - The environment is represented as a **graph** where:
+     - Nodes (vertices) represent locations.
+     - Edges (lanes) define paths between locations.
+   - This allows for efficient path planning and decision-making.
+
+2. **Real-Time Traffic Management**
+   - A **traffic manager** ensures safe movement by preventing multiple robots from occupying the same lane.
+   - Robots request lane access before moving, reducing congestion and avoiding deadlocks.
+
+3. **Multi-Robot Coordination**
+   - Each robot follows an assigned **path** with dynamic obstacle avoidance.
+   - Robots **wait if a lane is occupied**, ensuring smooth coordination without collisions.
+
+4. **Scalable and Interactive GUI**
+   - The GUI provides a **visual representation** of robot movement, lane occupancy, and navigation.
+   - Users can **select, assign tasks, and monitor** robots in real-time.
+   - Features include **zoom, pan, and interactive clicks** to enhance usability.
+
+## Strengths of This Approach
+
+### ✅ **Efficient Pathfinding and Navigation**
+- The **graph-based structure** enables efficient path search, ensuring that robots take the shortest available routes.
+- **Real-time traffic control** prevents collisions and optimizes robot flow.
+
+### ✅ **Scalable Multi-Robot System**
+- The approach is **scalable**, allowing multiple robots to operate simultaneously.
+- Supports **dynamic robot spawning** at any node without disrupting the system.
+
+### ✅ **Effective Traffic Negotiation**
+- **Lane reservation logic** ensures only one robot moves through a path segment at a time.
+- Prevents **traffic deadlocks** and congestion.
+
+### ✅ **User-Friendly and Intuitive Interface**
+- **Interactive GUI** provides real-time visualization of the fleet’s status.
+- Users can **assign tasks, track movement, and monitor robot states** with ease.
+
+### ✅ **Thread-Based Real-Time Execution**
+- Uses **multi-threading** for parallel execution of robot movements.
+- Robots update their position smoothly, improving simulation realism.
+
+## Installation and Setup
+
+### Prerequisites
+- Python 3.x
+- Pip package manager
+
+### Steps to Run the Project
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/your-username/fleet-management.git
+   cd fleet-management
+   ```
+2. Install dependencies:
+   ```sh
+   pip install -r requirements.txt
+   ```
+3. Start the application:
+   ```sh
+   python -m src.main
+   ```
+
+## 🎬 Demo Video  
+📺 **[Click here to watch the demo]()** 
+
+
+## Conclusion
+
+This approach provides a **highly interactive, scalable, and efficient** fleet management solution. By integrating **graph-based navigation, traffic negotiation, and a real-time GUI**, it offers a **practical and user-friendly** system for managing autonomous robots in dynamic environments.
