@@ -69,13 +69,13 @@ This project implements a **graph-based fleet management system** for multiple a
    ```
 
 ## Working
-- ![image](https://github.com/user-attachments/assets/1.png)
+- ![image](https://github.com/shansita24/GoatPSGHackathon_22PC21/blob/main/assets/1.png)
   This image shows the gui where we can view the graph with the corresponding vertices and edges which can be changed in the nav_graph.json file.
-- ![image](https://github.com/user-attachments/assets/2.png)
+- ![image](https://github.com/shansita24/GoatPSGHackathon_22PC21/blob/main/assets/2.png)
   After selection of the vertex B when we click on vertex A the robot moves from B to A in the shortest route possible.
-- ![image](https://github.com/user-attachments/assets/3.png)
+- ![image](https://github.com/shansita24/GoatPSGHackathon_22PC21/blob/main/assets/3.png)
   This image shows the Robot 1 charging on the vertex G again this charging vertices also can be changed in the nav_graph.json file.Now we can spawn a new Robot 2 again in the vertex B, now this robot 2 would not be able to pass through or be able to be placed on the vertex in which robot 1 is present.
-- ![image](https://github.com/user-attachments/assets/4.png)
+- ![image](https://github.com/shansita24/GoatPSGHackathon_22PC21/blob/main/assets/4.png)
 
 ## 🎬 Demo Video  
 📺 **[Click here to watch the demo](https://drive.google.com/file/d/1kWCWr9Ho79J3QptR_fbKF6V5ZFtmoI3h/view?usp=sharing)** 
